@@ -1,0 +1,46 @@
+-------------------------------
+** gmail: 
+svrt.hlvt@gmail.com
+lostintheforest067
+
+** firefox
+svrt.hlvt@gmail.com
+all_humans_ends_now
+
+** twitter
+svrt.hlvt@gmail.com
+twt00-06-t-w-t--
+
+** kaggle
+svrt0sjkdm
+
+
+-------------------------------
+SERVICIOS EN LA NUBE
+
+** aws
+svrt
+perceptron000dpcnn10.-
+
+** floydhub
+svrt0sjdkm
+nvr--a012.32
+
+--------------------------------
+Proyecto aprendizaje 
+
+1. Tener una cuenta en twitter
+2. Solicitar una cuenta de desarrollador en: https://developer.twitter.com/en/apply/user
+   La cuenta debe ser aprobada para poder crear una aplicación usando la API. Esto puede tardar de minutos a horas.
+3. Una vez aprobada la cuenta, crear una aplicación.
+
+https://www.youtube.com/watch?v=b6jhopSMit8
+https://medium.freecodecamp.org/how-to-use-deeplab-in-tensorflow-for-object-segmentation-using-deep-learning-a5777290ab6b
+https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef
+
+
+** Autoencoders
+https://www.youtube.com/watch?v=7mRfwaGGAPg
+
+** rrn 
+https://www.youtube.com/watch?v=SiBLzJxSzpo

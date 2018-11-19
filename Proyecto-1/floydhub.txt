@@ -1,0 +1,25 @@
+Entrenar una red neuronal en la nube usando Floydhub
+
+1. Crear una cuenta en Floydhub
+
+2. Instalar floydhub en la terminal:
+    pip install -U floyd-cli
+    floyd login 
+    
+3. Crear un proyecto desde floyd
+
+3. Crear una base de datos, e inicializarla desde la terminal.
+   Es importante estar en el directorio donde se encuentra el conjunto de datos.
+    floyd data init svrt0sjkdm/semantic_segmentation_dataset
+    floyd data upload
+    
+4. Crear un workspace en el proyecto
+   Inicializarlo y cargar la base de datos creada (svrt0sjkdm/semantic_segmentation_dataset)
+   
+5. 
+    
+-----------------------
+
+4. Iniciar un trabajo: inicializando en la terminal el proyecto previamente creado.
+    floyd init svrt0sjkdm/deep_learning_cnn
+    floyd run --env keras --mode jupyter 
